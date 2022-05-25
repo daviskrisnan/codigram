@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&display=swap');
+/* font-family: 'Mochiy Pop One', sans-serif; */
+
+@import url('https://fonts.googleapis.com/css2?family=Sniglet:wght@400;800&display=swap');
+/* font-family: 'Sniglet', cursive; */
+
+:root {
+  font-size: 16px;
+}
+
+body {
+  font-family: 'Sniglet', cursive;
+}
+
+.font-logo {
+  font-family: 'Mochiy Pop One', sans-serif;
+  font-size: 24px;
+  color: black
+}
+
+.home-icons {
+  font-size: 30px;
+  color: cornflowerblue;
+}
+
+.home-title {
+  font-weight: bold;
+}
+
+.text-title{
+  text-align: center;
+  font-size:20px;
+  padding-top: 80px;
+}
+
+.text-title{
+  text-align: center;
+  font-size:20px;
+  padding-top: 80px;
+}
+.text-title-1{
+  text-align: center;
+  font-size:20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.input-style{
+  margin-top: 80px;
+  text-align: center;
+}
+.input-style-1{
+  margin-top: 10px;
+}
+.submit-btn button{
+  box-sizing: border-box;
+  background-color:#f8e87e;
+  border: 3px solid #f8e87e; 
+  border-radius: 20px;
+  font-weight: bold;
+  width: 240px;
+  height: 40px;
+}
+.submit-btn{
+  padding: 30px;
+  text-align: center;
+}
+.text-title-add{
+  text-align: center;
+  font-size:20px;
+  padding-top: 50px;
+}
+.input-form{
+  padding-top: 50px;
+}
